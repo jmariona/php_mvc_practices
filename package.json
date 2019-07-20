@@ -1,0 +1,15 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "simple ecommerce project",
+  "main": "index.js",
+  "author": "jmariona",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "laravel-mix": "^4.1.2"
+  },
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
